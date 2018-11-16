@@ -24,4 +24,7 @@ public class FileUtils1 {
     public static FileUtils1 getInstance() {
         return instance;
     }
+    public static void main(String[] args) {
+        System.out.println(1111);
+    }
 }
