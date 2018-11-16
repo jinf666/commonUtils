@@ -24,7 +24,10 @@ public class FileUtils1 {
     public static FileUtils1 getInstance() {
         return instance;
     }
+<<<<<<< HEAD
     public static void main(String[] args) {
         System.out.println(2222);
     }
+=======
+>>>>>>> refs/heads/1
 }
